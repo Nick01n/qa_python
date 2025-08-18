@@ -25,4 +25,4 @@ class TestBooksCollector:
 
 
     def Test(self):
-        print("Hello world!")
+        print("Hello world!++++") 
